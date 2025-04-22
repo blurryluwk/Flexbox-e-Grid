@@ -1,4 +1,4 @@
-# ✦ Projetos de Layout Responsivo - Flexbox vs Flexbox + Grid ✦
+![image](https://github.com/user-attachments/assets/7f26e358-9ad7-4387-ab6c-54f537321f50)# ✦ Projetos de Layout Responsivo - Flexbox vs Flexbox + Grid ✦
 
 Este repositório contém **dois projetos de layout responsivo**, desenvolvidos com **HTML e CSS puro**, com o objetivo de estudo e comparação entre abordagens modernas de layout: **Flexbox** e a combinação de **Flexbox com CSS Grid**. Flexbox é ótimo para alinhar elementos em uma dimensão (linha ou coluna), enquanto o CSS Grid permite organizar conteúdo em duas dimensões (linhas e colunas). Juntos, oferecem controle total sobre o layout: Grid define a estrutura principal e Flexbox cuida dos detalhes internos. Essa combinação torna o design responsivo mais flexível e eficiente.
 
@@ -11,7 +11,7 @@ Este repositório contém **dois projetos de layout responsivo**, desenvolvidos 
 
 ---
 
-## 📌 Projeto 1 – Apenas Flexbox
+## 📌 Projeto 1 – Apenas Flexbox ([Link](https://blurryluwk.github.io/Flexbox-e-Grid/flexbox/))
 
 ### Características:
 - Utilização exclusiva do modelo Flexbox para organizar os elementos da página.
@@ -21,7 +21,7 @@ Este repositório contém **dois projetos de layout responsivo**, desenvolvidos 
 - Uso do componente  `flex: x` para a distribuição entre o conteúdo principal e a sidebar.
 ---
 
-## 📌 Projeto 2 – Flexbox + CSS Grid
+## 📌 Projeto 2 – Flexbox + CSS Grid ([Link](https://blurryluwk.github.io/Flexbox-e-Grid/flexbox-and-grid/))
 
 ### Características:
 - Utiliza **CSS Grid** para o layout principal da página, permitindo uma divisão clara em colunas.
